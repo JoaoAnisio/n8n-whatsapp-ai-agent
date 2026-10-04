@@ -109,7 +109,3 @@ Quando o agente usa a ferramenta `transferir_para_humano`, a chave `<numero>_sta
 │   └── supabase_leads.sql       # Tabela de leads
 └── README.md
 ```
-
-## 🙏 Créditos
-
-Desenvolvido por [João Anísio](https://github.com/JoaoAnisio), com base nos conceitos aprendidos na Formação Gestor de Agentes de IA da [NoCode Startup](https://nocodestartup.io/). A implementação é própria: usa a Evolution API em vez da Z-API e roda auto-hospedada em Docker em vez do n8n Cloud.
