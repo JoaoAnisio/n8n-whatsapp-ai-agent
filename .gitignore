@@ -1,0 +1,5 @@
+.DS_Store
+.env
+
+# Export original do n8n (contém IDs internos da instância/credenciais)
+Meu Template Mestre.json
