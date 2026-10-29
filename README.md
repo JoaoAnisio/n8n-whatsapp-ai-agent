@@ -1,5 +1,10 @@
 # 🤖 n8n WhatsApp AI Agent
 
+![n8n](https://img.shields.io/badge/n8n-self--hosted-EA4B71?logo=n8n&logoColor=white)
+![Evolution API](https://img.shields.io/badge/Evolution%20API-WhatsApp-25D366?logo=whatsapp&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-4285F4?logo=googlegemini&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 Agente de IA para atendimento no WhatsApp, construído no **n8n**. Ele faz o primeiro atendimento de leads, entende **texto, áudio, imagem e PDF**, mantém memória da conversa, registra o lead no banco e transfere para um humano quando necessário.
 
 O exemplo incluído é a **Fig**, assistente virtual da FigToWeb Studio, que qualifica clientes interessados em landing pages e sites. O prompt pode ser adaptado para qualquer negócio.
